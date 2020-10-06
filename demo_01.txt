@@ -3,5 +3,10 @@ hello world！
 加油！加油！!!!!i
 !!!!!!!!!!!!!!!!!
 sjkgdfbiusahn!
+<<<<<<< HEAD
 skdghnvpoiudgahf vba
-新添加一行信息数据！
+新加一行信息！
+=======
+skdghnvpoiudgahf vb
+新加一行信息！
+>>>>>>> temp
